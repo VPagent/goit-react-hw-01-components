@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VPagent/goit-react-hw-01-components/static/css/main.1b2537d6.css",
+    "main.js": "/VPagent/goit-react-hw-01-components/static/js/main.b691e544.js",
+    "index.html": "/VPagent/goit-react-hw-01-components/index.html",
+    "main.1b2537d6.css.map": "/VPagent/goit-react-hw-01-components/static/css/main.1b2537d6.css.map",
+    "main.b691e544.js.map": "/VPagent/goit-react-hw-01-components/static/js/main.b691e544.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b2537d6.css",
+    "static/js/main.b691e544.js"
+  ]
+}
