@@ -28,11 +28,11 @@ function Transaction ({items}) {
 }
 
 Transaction.propTypes = {
-  items: PropTypes.shape({
+  items: PropTypes.arrayOf(PropTypes.shape({
     type: PropTypes.string,
     amount: PropTypes.string,
-    currency: PropTypes.string
-  })
+    currency: PropTypes.string, 
+  }))
 }
 
 export default Transaction
